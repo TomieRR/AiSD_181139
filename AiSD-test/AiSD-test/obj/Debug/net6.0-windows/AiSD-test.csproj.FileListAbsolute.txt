@@ -1,0 +1,17 @@
+D:\181139\AISD\AiSD-test\AiSD-test\bin\Debug\net6.0-windows\AiSD-test.exe
+D:\181139\AISD\AiSD-test\AiSD-test\bin\Debug\net6.0-windows\AiSD-test.deps.json
+D:\181139\AISD\AiSD-test\AiSD-test\bin\Debug\net6.0-windows\AiSD-test.runtimeconfig.json
+D:\181139\AISD\AiSD-test\AiSD-test\bin\Debug\net6.0-windows\AiSD-test.dll
+D:\181139\AISD\AiSD-test\AiSD-test\bin\Debug\net6.0-windows\AiSD-test.pdb
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.csproj.AssemblyReference.cache
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD_test.Form1.resources
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.csproj.GenerateResource.cache
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.AssemblyInfoInputs.cache
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.AssemblyInfo.cs
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.csproj.CoreCompileInputs.cache
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.dll
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\refint\AiSD-test.dll
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.pdb
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\AiSD-test.genruntimeconfig.cache
+D:\181139\AISD\AiSD-test\AiSD-test\obj\Debug\net6.0-windows\ref\AiSD-test.dll
