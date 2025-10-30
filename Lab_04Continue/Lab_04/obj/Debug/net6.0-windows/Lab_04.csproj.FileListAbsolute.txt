@@ -1,0 +1,16 @@
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.Form1.resources
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.csproj.GenerateResource.cache
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.GeneratedMSBuildEditorConfig.editorconfig
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.AssemblyInfoInputs.cache
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.AssemblyInfo.cs
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.csproj.CoreCompileInputs.cache
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\bin\Debug\net6.0-windows\Lab_04.exe
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\bin\Debug\net6.0-windows\Lab_04.deps.json
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\bin\Debug\net6.0-windows\Lab_04.runtimeconfig.json
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\bin\Debug\net6.0-windows\Lab_04.dll
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\bin\Debug\net6.0-windows\Lab_04.pdb
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.dll
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\refint\Lab_04.dll
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.pdb
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\Lab_04.genruntimeconfig.cache
+E:\AiSD\AiSD_181139-main\Lab_04\Lab_04\obj\Debug\net6.0-windows\ref\Lab_04.dll
