@@ -1,0 +1,17 @@
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.csproj.AssemblyReference.cache
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.Form1.resources
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.csproj.GenerateResource.cache
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.GeneratedMSBuildEditorConfig.editorconfig
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.AssemblyInfoInputs.cache
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.AssemblyInfo.cs
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.csproj.CoreCompileInputs.cache
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\bin\Debug\net6.0-windows\countingsort.exe
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\bin\Debug\net6.0-windows\countingsort.deps.json
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\bin\Debug\net6.0-windows\countingsort.runtimeconfig.json
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\bin\Debug\net6.0-windows\countingsort.dll
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\bin\Debug\net6.0-windows\countingsort.pdb
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.dll
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\refint\countingsort.dll
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.pdb
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\countingsort.genruntimeconfig.cache
+D:\181139\AISD\AiSD_181139\countingsort\countingsort\obj\Debug\net6.0-windows\ref\countingsort.dll
