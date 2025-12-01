@@ -1,0 +1,17 @@
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.csproj.AssemblyReference.cache
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.Form1.resources
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.csproj.GenerateResource.cache
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.GeneratedMSBuildEditorConfig.editorconfig
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.AssemblyInfoInputs.cache
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.AssemblyInfo.cs
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.csproj.CoreCompileInputs.cache
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\bin\Debug\net6.0-windows\DrzewoBST.exe
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\bin\Debug\net6.0-windows\DrzewoBST.deps.json
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\bin\Debug\net6.0-windows\DrzewoBST.runtimeconfig.json
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\bin\Debug\net6.0-windows\DrzewoBST.dll
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\bin\Debug\net6.0-windows\DrzewoBST.pdb
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.dll
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\refint\DrzewoBST.dll
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.pdb
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\DrzewoBST.genruntimeconfig.cache
+D:\181139\AISD\AiSD_181139\DrzewoBST\DrzewoBST\DrzewoBST\obj\Debug\net6.0-windows\ref\DrzewoBST.dll
